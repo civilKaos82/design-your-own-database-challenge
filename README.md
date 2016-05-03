@@ -1,14 +1,16 @@
 # Design a Database Schema
  
-##Summary 
+## Summary 
+We've been designing database schemas that would support a Ruby application or that meet a given set of requirements.  Now we're going to design a database schema based on requirements that we create ourselves.
 
- Get even more creative and design your own database, complete with multiple many-to-many and one-to-many relationships on your own (i.e. not with your pair) and build it in [SQL Designer][].
+*Note:* This challenge is intended to be completed solo.
 
-##Releases
-###Release 0 : Build your Database
 
-Come up with your own example of a cool database.  Is it a database that holds characters and objects in a video game?  Or the relationships of Super PACS with members of Congress and their parties?  What are you interested in that's associated with lots of data, and create a model to hold all the attributes and relationships within that data.   Model it in [SQL Designer](https://socrates.devbootcamp.com/sql.html). Turn in your XML of the schema, a link to a screen shot of the tables, and a brief description of the data and relationships in the source file `design_your_own.md` . 
+## Releases
+### Release 0:  Design a Database Schema of Your Choice
+What is of interest that's associated with lots of data?  Is it a video game with its characters, objects, etc.?  The relationships between Super PACS, members of Congress, and their parties?  
 
-<!-- ##Optimize Your Learning  -->
+Select a domain and design a database schema to hold this domain's data.  The schema should contain multiple many-to-many and one-to-many relationships.  Visually model the database schema in [Schema Designer][], and submit a screenshot of the finished schema.
 
-##Resources
+
+[schema designer]: http://schemadesigner.devbootcamp.com/
