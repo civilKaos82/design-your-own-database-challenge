@@ -1,10 +1,5 @@
 # Design a Database Schema
  
-##Learning Competencies 
-
-* Design database schema from problem data
-* Model relationships in a relational database (one-to-one, one-to-many, many-to-many)
-
 ##Summary 
 
  Get even more creative and design your own database, complete with multiple many-to-many and one-to-many relationships on your own (i.e. not with your pair) and build it in [SQL Designer][].
