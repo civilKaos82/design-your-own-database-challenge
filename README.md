@@ -8,7 +8,7 @@ We've been designing database schemas that would support a Ruby application or t
 
 ## Releases
 ### Release 0:  Design a Database Schema of Your Choice
-What is of interest that's associated with lots of data?  Is it a video game with its characters, objects, etc.?  The relationships between Super PACS, members of Congress, and their parties?  
+What's of interest that's associated with lots of data?  Is it a video game with its characters, objects, etc.?  The relationships between Super PACS, members of Congress, and their parties?  
 
 Select a domain and design a database schema to hold this domain's data.  The schema should contain multiple many-to-many and one-to-many relationships.  Visually model the database schema in [Schema Designer][], and submit a screenshot of the finished schema.
 
