@@ -1,4 +1,4 @@
-# Design Your Own Database 
+# Design a Database Schema
  
 ##Learning Competencies 
 
